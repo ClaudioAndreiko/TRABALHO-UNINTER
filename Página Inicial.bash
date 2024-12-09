@@ -1,4 +1,4 @@
-/Inicio.html
+/Index.html
 /Sobremim.html
 /Formação.html
 /Portifólio.html
